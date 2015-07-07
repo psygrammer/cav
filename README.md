@@ -17,6 +17,6 @@
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:---------------------------------------- |
 | 1 |7/7|(지각심리)1.Introductin to Perception |김덕태| |
-|   |   |(CVPy)1.Basic Image Handling and Processing |송근창||
+|   |   |(CVPy)1.Basic Image Handling and Processing |송근창|[note](http://nbviewer.ipython.org/github/psygrammer/cav/blob/master/part1/study01/cvpy/Programming_Computer_Vision_with_Python_ch01_Basic_Image_Handling_and_Processing.ipynb)|
 |   |   |(CVMetrics)1.Image Capture and Representation |김덕태||
-|   |   |(DeepCV)Intro to Computer Vision |김무성||
+|   |   |(DeepCV)Intro to Computer Vision |김무성|[note](http://nbviewer.ipython.org/github/psygrammer/cav/blob/master/part1/study01/deepcv/Intro_to_Computer_Vision.ipynb)|
