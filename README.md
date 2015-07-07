@@ -4,11 +4,11 @@
 # 스터디 정보 
 * 2주에 한번, 화요일 저녁.
 * 교재 : 
-  - 지각심리 : Sensation and Perception, 9th Edition - http://www.amazon.com/Sensation-Perception-CourseMate-Printed-Access/dp/1133958494
-  - CVPy : Programming Computer Vision with Python - http://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549/
-  - OpenCVPy :  OpenCV Computer Vision with Python - http://www.amazon.com/OpenCV-Computer-Vision-Python-Joseph/dp/1506080944
-  - CVMetrics : Computer Vision Metrics: Survey, Taxonomy, and Analysis - http://www.amazon.com/Computer-Vision-Metrics-Taxonomy-Analysis/dp/1430259299/
-  - DeepCV : Convolutional Neural Networks for Visual Recognition -  http://cs231n.stanford.edu/syllabus.html
+  - 지각심리 : [Sensation and Perception, 9th Edition](http://www.amazon.com/Sensation-Perception-CourseMate-Printed-Access/dp/1133958494)
+  - CVPy : [Programming Computer Vision with Python](http://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549/)
+  - OpenCVPy :  [OpenCV Computer Vision with Python](http://www.amazon.com/OpenCV-Computer-Vision-Python-Joseph/dp/1506080944)
+  - CVMetrics : [Computer Vision Metrics: Survey, Taxonomy, and Analysis](http://www.amazon.com/Computer-Vision-Metrics-Taxonomy-Analysis/dp/1430259299/)
+  - DeepCV : [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
 
 # 커리큘럼
 <b>PART I</b>
