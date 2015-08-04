@@ -25,7 +25,7 @@
 |    |     |(DeepCV) : Image classification, data-driven approach, k-nearest neighbor |이재황| |
 | 3  |8/4  |(지각심리) 2. The Beginnings of Perception | 박성영 |   |
 |    |     |(CVPy) 2. Local Image Descriptors          | 김무성 |   |
-|    |     |(DeepCV) Linear classification: SVM/Softmax | 최홍옹|   |
+|    |     |(DeepCV) Linear classification: SVM/Softmax | 최홍용|   |
 |    |     |(지각심리) 1. Introductin to Perception (2) | 김덕태|   |
 | 4  |8/18 |(CVPy) 3. Image to Image Mappings           | 한태규|   |
 |    |     |(CVMetrics) 2. Image Pre-Processing         |       |   |
